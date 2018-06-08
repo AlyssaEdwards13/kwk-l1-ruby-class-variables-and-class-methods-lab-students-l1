@@ -26,4 +26,4 @@ puts jessica.name
 
 void_ivy = Users2.new
 void_ivy.name2 = "Void_ivy"
-puts Void_ivy.name2
+puts void_ivy.name2
