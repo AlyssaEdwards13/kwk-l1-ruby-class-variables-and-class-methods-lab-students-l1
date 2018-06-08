@@ -27,3 +27,22 @@
 # void_ivy = Users2.new
 # void_ivy.name2 = "Void_ivy"
 # puts void_ivy.name2
+
+class User 
+  attr_accessor :username, :password, :email, :age 
+  
+  # this is always initialize MAKE SURE YOU SPELL IT RIGHT
+  def initialize(username, password, email, age)
+  @username=username
+  @password=password
+  @email=email
+  @age=age 
+end 
+  
+  
+  
+  
+  
+  
+  
+  
