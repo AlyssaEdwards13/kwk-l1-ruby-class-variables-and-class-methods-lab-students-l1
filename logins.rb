@@ -37,11 +37,15 @@ class User
   @password=password
   @email=email
   @age=age 
+ end
 end 
   
   
-  
-  
+jessica=User.new("Jessica", "password","Jessica@Jessica.com","19")
+puts jessica.username
+puts jessica.password
+puts jessica.email
+puts jessica.age 
   
   
   
