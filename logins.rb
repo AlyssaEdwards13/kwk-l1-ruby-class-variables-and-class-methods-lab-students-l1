@@ -52,5 +52,3 @@ puts sophia.username
 puts sophia.password
 puts sophia.email
 puts sophia.age
-  
-  
