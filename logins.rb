@@ -42,11 +42,15 @@ end
   
   
 jessica=User.new("Jessica", "password","Jessica@Jessica.com","19")
+sophia=User.new("sophia is cool","123cats", "sophia@sophiaownstheworld.com","17")
 puts jessica.username
 puts jessica.password
 puts jessica.email
 puts jessica.age 
   
-  
+puts sophia.username
+puts sophia.password
+puts sophia.email
+puts sophia.age
   
   
